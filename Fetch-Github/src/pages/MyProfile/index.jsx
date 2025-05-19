@@ -18,6 +18,8 @@ import {
 } from "./styles";
 import { Helmet } from "react-helmet-async";
 
+
+
 const MyProfile = () => {
   const [data, setData] = useState([]);
 

@@ -12,6 +12,7 @@ import {
 import { motion } from "framer-motion";
 import Alert from "../../components/Alert";
 
+
 const Contact = () => {
   const [alert, setAlert] = useState(false);
   const [formInfo, setFormInfo] = useState({
